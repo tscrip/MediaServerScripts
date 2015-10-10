@@ -17,7 +17,7 @@
 
 #Defining constants
 USERNAME="root"
-PASSWORD="bluefishreddogyellowbird"
+PASSWORD="password"
 PORT="9091"
 CONNECTION_STRING="$PORT --auth $USERNAME:$PASSWORD"
 
